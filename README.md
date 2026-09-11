@@ -1,4 +1,3 @@
-La Radio des Hits
-.Com
+LaRadioDesHits.Com
 
 Bienvenue
